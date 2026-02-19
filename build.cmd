@@ -1,0 +1,1 @@
+go build -ldflags="-H=windowsgui" -o AudioVisualizer.exe main.go
